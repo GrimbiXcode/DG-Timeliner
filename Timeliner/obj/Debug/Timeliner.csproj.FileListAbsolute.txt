@@ -1,0 +1,13 @@
+H:\Lehrmittel\Visual\Timeliner\Timeliner\bin\Debug\Timeliner.exe.config
+H:\Lehrmittel\Visual\Timeliner\Timeliner\bin\Debug\Timeliner.exe
+H:\Lehrmittel\Visual\Timeliner\Timeliner\bin\Debug\Timeliner.pdb
+H:\Lehrmittel\Visual\Timeliner\Timeliner\obj\Debug\Timeliner.csprojResolveAssemblyReference.cache
+H:\Lehrmittel\Visual\Timeliner\Timeliner\obj\Debug\MainWindow.baml
+H:\Lehrmittel\Visual\Timeliner\Timeliner\obj\Debug\MainWindow.g.cs
+H:\Lehrmittel\Visual\Timeliner\Timeliner\obj\Debug\App.g.cs
+H:\Lehrmittel\Visual\Timeliner\Timeliner\obj\Debug\Timeliner_MarkupCompile.cache
+H:\Lehrmittel\Visual\Timeliner\Timeliner\obj\Debug\Timeliner.g.resources
+H:\Lehrmittel\Visual\Timeliner\Timeliner\obj\Debug\Timeliner.Properties.Resources.resources
+H:\Lehrmittel\Visual\Timeliner\Timeliner\obj\Debug\Timeliner.csproj.GenerateResource.Cache
+H:\Lehrmittel\Visual\Timeliner\Timeliner\obj\Debug\Timeliner.exe
+H:\Lehrmittel\Visual\Timeliner\Timeliner\obj\Debug\Timeliner.pdb
